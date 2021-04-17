@@ -15,6 +15,7 @@ class Welcome extends Component{
                 Primary
             </Button>
 
+
             <h1>hello class{this.props.name}</h1>;
         </div>
 
